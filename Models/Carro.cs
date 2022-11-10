@@ -14,7 +14,7 @@
         public DateTime DataFinal { get; set; }
         
         // Estado do veiculo
-        //teste1
+       
 
         public ICollection<Reserva> Reservas { get; set; }
         public int CategoriaId { get; set; }
